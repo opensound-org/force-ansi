@@ -1,31 +1,25 @@
 [package]
-name = "template-rs"
+name = "force-ansi"
 authors = ["29 <791603901@qq.com>"]
 version = "0.0.1"
 license = "MIT/Apache-2.0"
 readme = "README.md"
-keywords = ["template"]
-categories = ["multimedia::audio"]
-repository = "https://github.com/opensound-org/template-rs"
-homepage = "https://github.com/opensound-org/template-rs"
+keywords = ["cli", "terminal", "process"]
+categories = ["command-line-utilities", "development-tools", "development-tools::debugging"]
+repository = "https://github.com/opensound-org/force-ansi"
+homepage = "https://github.com/opensound-org/force-ansi"
 description = """
-🚧 Template for Rust repositories used by `opensound-org` (WIP, nothing usable for now).
+A command-line wrapper program that can force ANSI code to be enabled in the Windows console.
 """
 edition = "2021"
+default-run = "force-ansi"
 
 # See more keys and their definitions at https://doc.rust-lang.org/cargo/reference/manifest.html
 
-# Because we used `rustc-check-cfg` in build script
-# 因为我们在构建脚本中使用了`rustc-check-cfg`
-# https://blog.rust-lang.org/2024/05/06/check-cfg.html
-rust-version = "1.80.0"
-
-[package.metadata.docs.rs]
-all-features = true
+# Because the MSRV of the dependency `tracing` is 1.63.0
+# 因为依赖项`tracing`的MSRV是1.63.0
+rust-version = "1.63.0"
 
 [dependencies]
 
 [dev-dependencies]
-
-[build-dependencies]
-version_check = "0.9.5"
