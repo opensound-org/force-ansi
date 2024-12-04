@@ -10,12 +10,12 @@
 
 原始作者：[@czy-29](https://github.com/czy-29)
 
-最新版本：[v0.0.1](https://github.com/opensound-org/force-ansi/releases/tag/v0.0.1)
+最新版本：[v0.0.2](https://github.com/opensound-org/force-ansi/releases/tag/v0.0.2)
 
 ![Crates.io Total Downloads](https://img.shields.io/crates/d/force-ansi)
 ![GitHub Repo stars](https://img.shields.io/github/stars/opensound-org/force-ansi)
 
-[![dependency status (version)](https://deps.rs/crate/force-ansi/0.0.1/status.svg?subject=v0.0.1-deps)](https://deps.rs/crate/force-ansi/0.0.1)
+[![dependency status (version)](https://deps.rs/crate/force-ansi/0.0.2/status.svg?subject=v0.0.2-deps)](https://deps.rs/crate/force-ansi/0.0.2)
 [![dependency status (git)](https://deps.rs/repo/github/opensound-org/force-ansi/status.svg?subject=git-deps)](https://deps.rs/repo/github/opensound-org/force-ansi)
 
 [![Static Badge](https://img.shields.io/badge/build_with-Rust_1.83.0-dca282)](https://blog.rust-lang.org/2024/11/28/Rust-1.83.0.html)
