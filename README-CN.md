@@ -18,7 +18,7 @@
 [![dependency status (version)](https://deps.rs/crate/force-ansi/1.0.0/status.svg?subject=v1.0.0-deps)](https://deps.rs/crate/force-ansi/1.0.0)
 [![dependency status (git)](https://deps.rs/repo/github/opensound-org/force-ansi/status.svg?subject=git-deps)](https://deps.rs/repo/github/opensound-org/force-ansi)
 
-[![Static Badge](https://img.shields.io/badge/build_with-Rust_1.83.0-dca282)](https://blog.rust-lang.org/2024/11/28/Rust-1.83.0.html)
+[![Static Badge](https://img.shields.io/badge/build_with-Rust_1.84.0-dca282)](https://blog.rust-lang.org/2024/11/28/Rust-1.84.0.html)
 
 </div>
 
