@@ -76,12 +76,6 @@ at your option.
 
 [Github](https://github.com/opensound-org/force-ansi) is our [single source of truth](https://en.wikipedia.org/wiki/Single_source_of_truth), where we welcome all issues and pull requests.
 
-We also have two downstream read-only mirrors that are [automatically pushed](.github/workflows/mirror.yml):
-- [Gitea](https://gitea.29bot.com/opensound-org/force-ansi)
-- [Gitee](https://gitee.com/opensound-org/force-ansi)
-
-As they are read-only mirrors, please do not initiate any merge or pull requests on these two platforms.
-
 Unless you explicitly state otherwise, any contribution intentionally submitted
 for inclusion in `force-ansi` by you, as defined in the Apache-2.0 license, shall be
 dual licensed as above, without any additional terms or conditions.
