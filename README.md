@@ -10,12 +10,12 @@ A command-line wrapper program that can force ANSI code to be enabled in the Win
 
 Original Author: [@czy-29](https://github.com/czy-29)
 
-Latest version: [v1.0.0](https://github.com/opensound-org/force-ansi/releases/tag/v1.0.0)
+Latest version: [v1.0.1](https://github.com/opensound-org/force-ansi/releases/tag/v1.0.1)
 
 ![Crates.io Total Downloads](https://img.shields.io/crates/d/force-ansi)
 ![GitHub Repo stars](https://img.shields.io/github/stars/opensound-org/force-ansi)
 
-[![dependency status (version)](https://deps.rs/crate/force-ansi/1.0.0/status.svg?subject=v1.0.0-deps)](https://deps.rs/crate/force-ansi/1.0.0)
+[![dependency status (version)](https://deps.rs/crate/force-ansi/1.0.1/status.svg?subject=v1.0.1-deps)](https://deps.rs/crate/force-ansi/1.0.1)
 [![dependency status (git)](https://deps.rs/repo/github/opensound-org/force-ansi/status.svg?subject=git-deps)](https://deps.rs/repo/github/opensound-org/force-ansi)
 
 [![Static Badge](https://img.shields.io/badge/build_with-Rust_1.93.0-dca282)](https://blog.rust-lang.org/2026/01/22/Rust-1.93.0/)
