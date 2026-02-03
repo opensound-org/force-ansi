@@ -16,13 +16,13 @@ default-run = "force-ansi"
 
 # See more keys and their definitions at https://doc.rust-lang.org/cargo/reference/manifest.html
 
-# Because the MSRV of the dependency `tracing` is 1.63.0
-# 因为依赖项`tracing`的MSRV是1.63.0
-rust-version = "1.63.0"
+# Because the MSRV of the dependency `tracing` is 1.65.0
+# 因为依赖项`tracing`的MSRV是1.65.0
+rust-version = "1.65.0"
 
 [dependencies]
-nu-ansi-term = "0.50.1"
-tracing = "0.1.41"
-tracing-subscriber = { version = "0.3.19", features = ["chrono"] }
+nu-ansi-term = "0.50.3"
+tracing = "0.1.44"
+tracing-subscriber = { version = "0.3.22", features = ["chrono"] }
 
 [dev-dependencies]
